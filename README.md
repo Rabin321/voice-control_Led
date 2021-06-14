@@ -7,3 +7,4 @@ Packages used:
 2. SpeechRecognition
 3. pyfirmata
 4. PyAudio.
+video link: https://www.facebook.com/100011426741417/videos/1637781059946103/
